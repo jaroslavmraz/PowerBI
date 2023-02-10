@@ -7,7 +7,7 @@ Some usefull information
 ![hmail Diagram](https://github.com/jaroslavmraz/PowerBI/blob/6791eeaa11952456e81034f3f565b0e1dfc09fff/hMailserver/hmail_server_mysql_database_structure.png) 
 
 
-- PowerBI Template
+- PowerBI [Template](https://github.com/jaroslavmraz/PowerBI/blob/master/hMailserver/hMailserver_database_powerbi_clean/hmail_db_strucutre.pbit)
 
 - Search [script](https://github.com/jaroslavmraz/PowerBI/blob/master/hMailserver/serarch_hMail_database_for_email.sql)
 
